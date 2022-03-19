@@ -1,11 +1,3 @@
-![Nick Frichette](https://github.com/Frichetten/Frichetten/blob/master/Nick%20Frichette.png?raw=true)
-<p align="center">
-  <a href="https://frichetten.com/">Blog</a> •
-  <a href="https://twitter.com/frichette_n">Twitter</a> •
-  <a href="https://www.linkedin.com/in/nick-frichette/">LinkedIn</a> •
-  <a href="https://hackingthe.cloud/">Hacking the Cloud</a>
-</p>
-
 ### "<a href="https://youtu.be/rEq1Z0bjdwc?t=6">Hello there</a>"
 
 My name is Nick Frichette, I'm a Penetration Tester and Team Lead for a large financial services company. My primary areas of focus are on web applications, AWS, and CI/CD exploitation.
