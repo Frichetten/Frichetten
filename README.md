@@ -2,7 +2,7 @@
 
 My name is Nick Frichette, I'm a Penetration Tester and Team Lead for a large financial services company. My primary areas of focus are on web applications, AWS, and CI/CD exploitation.
 
-This GitHub profile contains a bunch of stuff, and some of it is "good". You can find most of my research at my [blog](https://frichetten.com/blog). I'm also the primary maintainer of [Hacking the Cloud](https://hackingthe.cloud/), an encyclopedia of the techniques that offensive security professionals can use on their next cloud exploitation adventure.
+This GitHub profile contains a bunch of stuff, and some of it is "good". You can find most of my research at my [blog](https://frichetten.com/blog). In addition, I'm the primary maintainer of [Hacking the Cloud](https://hackingthe.cloud/), an encyclopedia of the techniques that offensive security professionals can use on their next cloud exploitation adventure.
 
 I'm also fortunate to be a part of the [AWS Community Builders Program](https://aws.amazon.com/developer/community/community-builders/).
 
