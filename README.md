@@ -1,6 +1,6 @@
 ### "<a href="https://youtu.be/rEq1Z0bjdwc?t=6">Hello there</a>"
 
-My name is Nick Frichette, I'm a Penetration Tester and Team Lead for a large financial services company. My primary areas of focus are on AWS, web application, and CI/CD exploitation. In addition, I'm the primary maintainer of [Hacking the Cloud](https://hackingthe.cloud/), an encyclopedia of the techniques that offensive security professionals can use against cloud environments.
+My name is Nick Frichette, I'm a Senior Security Researcher. Previously, I worked as a Penetration Tester and Team Lead for a large financial services company. My primary areas of focus are on AWS, web application, and CI/CD exploitation. In addition, I'm the creator and primary maintainer of [Hacking the Cloud](https://hackingthe.cloud/), an encyclopedia of the techniques that offensive security professionals can use against cloud environments.
 
 Aside from that, I'm fortunate to be a part of the [AWS Community Builders Program](https://aws.amazon.com/developer/community/community-builders/) and I also support the Tor project through my [Tor nodes](https://metrics.torproject.org/rs.html#search/FriendlyExitNode%20country:us).
 
@@ -26,5 +26,4 @@ I'm involved/participate with the security community in several ways. Here are j
 | --- |  --- |
 | OSCP | OSWE |
 | GXPN | GPEN |
-| AWS Certified Security Specialist | AWS Certified Solutions Architect Associate |
-| HashiCorp Terraform Certified Associate | |
+| AWS Certified Security Specialist | HashiCorp Terraform Certified Associate | |
