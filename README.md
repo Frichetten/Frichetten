@@ -17,6 +17,7 @@ In my off time I do security research, primarily focused on AWS.
 
 ## Community Involvement
 I'm involved/participate with the security community in several ways. Here are just a few.
+* [SANS Pentest Hackfest 2022](https://www.sans.org/cyber-security-training-events/pen-test-hackfest-2022/) - Gave a talk at the main track on "What I Wish I Knew Before Pentesting AWS Environments" ([slides](frichetten.com/sans-hf-2022)).
 * [Screaming in the Cloud #226 - Corey Quinn](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/hacking-aws-in-good-faith-with-nick-frichette/) - I was a guest on the Screaming in the Cloud podcast, hosted by Corey Quinn. We talked about offensive security in AWS, AWS security research, and more.
 * Research in the News - My research has been featured in multiple well-known newsletters including [CloudSecList](https://cloudseclist.com/issues/issue-122/), [tl;dr sec](https://tldrsec.com/blog/tldr-sec-103/#cloud-security), and [Bug Bytes](https://blog.intigriti.com/2021/06/09/bug-bytes-126-xss-in-aws-exotic-python-rce-vectors-zseanos-methodology/).
 * [ShellCon 2020](https://www.youtube.com/watch?v=UKULTl-7jCs&t=25611s) - Gave a talk (Hacking AWS - TTPs for the Cloud) at the Main Track of ShellCon 2020. Covered the tactics and techniques a penetration testing or red team can leverage when attacking AWS infrastructure.
