@@ -7,8 +7,9 @@ Aside from that, I'm fortunate to be a part of the [AWS Community Builders Progr
 This GitHub profile contains a bunch of stuff, and some of it is "good". You can find most of my research at my [blog](https://frichetten.com/blog).
 
 ## Vulnerability Research
-In my off time I do security research, primarily focused on AWS.
+I conduct security research both, professionally and as a hobby. My primary focus is on AWS and web application security.
 
+* [Cross-Tenant Confused Deputy Vulnerability in AWS AppSync](https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/)
 * [XSS in the AWS Console](https://frichetten.com/blog/xss_in_aws_console/)
 * [Enumerate AWS API Permissions without Logging to CloudTrail](https://frichetten.com/blog/aws-api-enum-vuln/)
 * [Intercept SSM Agent Communications](https://frichetten.com/blog/ssm-agent-tomfoolery/)
