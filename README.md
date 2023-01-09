@@ -18,6 +18,7 @@ I conduct security research both, professionally and as a hobby. My primary focu
 
 ## Community Involvement
 I'm involved/participate with the security community in several ways. Here are just a few.
+* [Cloud Securiy Podcast: Getting Started With Hacking AWS Cloud](https://www.youtube.com/watch?v=Btl78aP-VHo) - I was a guest on the [Cloud Security Podcast](https://cloudsecuritypodcast.tv/), discussing some of my security research.
 * [SANS Pentest Hackfest 2022](https://www.sans.org/cyber-security-training-events/pen-test-hackfest-2022/) - Gave a talk at the main track on "What I Wish I Knew Before Pentesting AWS Environments" ([slides](https://frichetten.com/sans-hf-2022)).
 * [Screaming in the Cloud #226 - Corey Quinn](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/hacking-aws-in-good-faith-with-nick-frichette/) - I was a guest on the Screaming in the Cloud podcast, hosted by Corey Quinn. We talked about offensive security in AWS, AWS security research, and more.
 * Research in the News - My research has been featured in multiple well-known newsletters including [CloudSecList](https://cloudseclist.com/issues/issue-122/), [tl;dr sec](https://tldrsec.com/blog/tldr-sec-103/#cloud-security), and [Bug Bytes](https://blog.intigriti.com/2021/06/09/bug-bytes-126-xss-in-aws-exotic-python-rce-vectors-zseanos-methodology/).
