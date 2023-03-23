@@ -2,7 +2,7 @@
 
 My name is Nick Frichette and I'm a Senior Security Researcher, primarily focused on cloud, web application, and CI/CD exploitation. Previously, I worked as a Penetration Tester and Team Lead for a large financial services company. In addition, I'm the creator and primary maintainer of [Hacking the Cloud](https://hackingthe.cloud/), an encyclopedia of the techniques that offensive security professionals can use against cloud environments.
 
-Aside from that, I'm fortunate to be a part of the [AWS Community Builders Program](https://aws.amazon.com/developer/community/community-builders/) and I also support the Tor project through my [Tor nodes](https://metrics.torproject.org/rs.html#search/FriendlyExitNode%20country:us).
+Aside from that, I'm fortunate to be a part of the [AWS Community Builders Program](https://aws.amazon.com/developer/community/community-builders/).
 
 This GitHub profile contains a bunch of stuff, and some of it is "good". You can find most of my research at my [blog](https://frichetten.com/blog).
 
