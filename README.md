@@ -20,6 +20,7 @@ I conduct security research both, professionally and as a hobby. My primary focu
 
 ## Community Involvement
 I'm involved/participate with the security community in several ways. Here are just a few.
+* [fwd:cloudsec 2023](https://www.youtube.com/watch?v=61C_lEQ5qNM) - Gave a talk titled "Evading Logging in the Cloud: Disrupting and Bypassing AWS CloudTrail", which was an overview of my research on AWS CloudTrail bypasses.
 * [Cloud Securiy Podcast: Getting Started With Hacking AWS Cloud](https://www.youtube.com/watch?v=Btl78aP-VHo) - I was a guest on the [Cloud Security Podcast](https://cloudsecuritypodcast.tv/), discussing some of my security research.
 * [SANS Pentest Hackfest 2022](https://www.youtube.com/watch?v=jq8SAF6ibSc) - Gave a talk at the main track on "What I Wish I Knew Before Pentesting AWS Environments" ([slides](https://frichetten.com/sans-hf-2022)).
 * [Screaming in the Cloud #226 - Corey Quinn](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/hacking-aws-in-good-faith-with-nick-frichette/) - I was a guest on the Screaming in the Cloud podcast, hosted by Corey Quinn. We talked about offensive security in AWS, AWS security research, and more.
