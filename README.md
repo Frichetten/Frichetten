@@ -20,6 +20,8 @@ I conduct security research both, professionally and as a hobby. My primary focu
 
 ## Community Involvement
 I'm involved/participate with the security community in several ways. Here are just a few.
+* [Cloud Security Podcast: How to Escape Clusters in a Managed Kubernetes Cluster?](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMGZiOTkyOC9wb2RjYXN0L3Jzcw/episode/YzQ0ZmU4YzctMDJjOS00YzUyLTliMzctYjE2M2EwNGE5ZmM1?ep=14) - I was a guest on the [Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/) talking about abusing managed Kubernetes clusters.  
+* [DEF CON Cloud Village 2023](https://www.youtube.com/watch?v=OraWbzAn5A8) - I gave a talk at the DEF CON Cloud Village titled "Evading Logging in the Cloud: Bypassing AWS CloudTrail".  
 * [Wiz: Top 16 cloud security experts you should follow in 2023](https://www.wiz.io/blog/top-16-cloud-security-experts-you-should-follow-in-2023) - I was included as a "top cloud security expert" in [Wiz](https://www.wiz.io/)'s yearly roundup.  
 * [fwd:cloudsec 2023](https://www.youtube.com/watch?v=61C_lEQ5qNM) - Gave a talk titled "Evading Logging in the Cloud: Disrupting and Bypassing AWS CloudTrail", which was an overview of my research on AWS CloudTrail bypasses.
 * [Cloud Securiy Podcast: Getting Started With Hacking AWS Cloud](https://www.youtube.com/watch?v=Btl78aP-VHo) - I was a guest on the [Cloud Security Podcast](https://cloudsecuritypodcast.tv/), discussing some of my security research.
@@ -33,4 +35,4 @@ I'm involved/participate with the security community in several ways. Here are j
 | --- |  --- |
 | OSCP | OSWE |
 | GXPN | GPEN |
-| AWS Certified Security Specialist | HashiCorp Terraform Certified Associate | |
+| AWS Certified Security Specialist | | |
