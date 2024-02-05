@@ -20,6 +20,7 @@ I conduct security research both, professionally and as a hobby. My primary focu
 
 ## Community Involvement
 I'm involved/participate with the security community in several ways. Here are just a few.
+* [Black Hat USA 2023](https://www.youtube.com/watch?v=YP2XNAbB_Nw) - I spoke on the main stage of Black Hat USA 2023 about my research into CloudTrail evasion.  
 * [Cloud Security Podcast: How to Escape Clusters in a Managed Kubernetes Cluster?](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMGZiOTkyOC9wb2RjYXN0L3Jzcw/episode/YzQ0ZmU4YzctMDJjOS00YzUyLTliMzctYjE2M2EwNGE5ZmM1?ep=14) - I was a guest on the [Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/) talking about abusing managed Kubernetes clusters.  
 * [DEF CON Cloud Village 2023](https://www.youtube.com/watch?v=OraWbzAn5A8) - I gave a talk at the DEF CON Cloud Village titled "Evading Logging in the Cloud: Bypassing AWS CloudTrail".  
 * [Wiz: Top 16 cloud security experts you should follow in 2023](https://www.wiz.io/blog/top-16-cloud-security-experts-you-should-follow-in-2023) - I was included as a "top cloud security expert" in [Wiz](https://www.wiz.io/)'s yearly roundup.  
