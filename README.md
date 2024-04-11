@@ -1,6 +1,6 @@
 ### "<a href="https://youtu.be/rEq1Z0bjdwc?t=6">Hello there</a>"
 
-My name is Nick Frichette and I'm a Senior Security Researcher, primarily focused on cloud, web application, and CI/CD exploitation. Previously, I worked as a Penetration Tester and Team Lead for a large financial services company. In addition, I'm the creator and primary maintainer of [Hacking the Cloud](https://hackingthe.cloud/), an encyclopedia of the techniques that offensive security professionals can use against cloud environments.
+My name is Nick Frichette and I'm a Staff Security Researcher, primarily focused on cloud, web application, and CI/CD exploitation. Previously, I worked as a Penetration Tester and Team Lead for a large financial services company. In addition, I'm the creator and primary maintainer of [Hacking the Cloud](https://hackingthe.cloud/), an encyclopedia of the techniques that offensive security professionals can use against cloud environments.
 
 Aside from that, I'm fortunate to be a part of the [AWS Community Builders Program](https://aws.amazon.com/developer/community/community-builders/).
 
