@@ -22,7 +22,8 @@ I conduct security research both, professionally and as a hobby. My primary focu
 
 ## Community Involvement
 I'm involved/participate with the security community in several ways. Here are just a few.
-* [fwd:cloudsec EU 2024](https://www.youtube.com/watch?v=f7AuDxlYCzE) - "Hidden Among the Clouds: A Look at Undocumented AWS APIs", a talk where I shared my research on finding thousands on undocumented AWS APIs.  
+* [fwd:cloudsec EU 2024](https://www.youtube.com/watch?v=f7AuDxlYCzE) - "Hidden Among the Clouds: A Look at Undocumented AWS APIs", a talk where I shared my research on finding thousands on undocumented AWS APIs.
+* [DEF CON 32](https://www.youtube.com/watch?v=oAriLYN-5HA) - I spoke on the main stage of DEF CON 32, sharing my research on exploiting AWS service vulnerabilities for intiail access. The talk was titled "Kicking in the Door to the Cloud: Exploiting Cloud Provider Vulnerabilities for Initial Access".    
 * [fwd:cloudsec NA 2024](https://www.youtube.com/watch?v=SodD-AS7t-k) - I gave a talk titled "Trust Me Bro: Preexisting Trust is the New Initial Access Vector" at fwd:cloudsec NA 2024.  
 * [Black Hat USA 2023](https://www.youtube.com/watch?v=YP2XNAbB_Nw) - I spoke on the main stage of Black Hat USA 2023 about my research into CloudTrail evasion.  
 * [Cloud Security Podcast: How to Escape Clusters in a Managed Kubernetes Cluster?](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMGZiOTkyOC9wb2RjYXN0L3Jzcw/episode/YzQ0ZmU4YzctMDJjOS00YzUyLTliMzctYjE2M2EwNGE5ZmM1?ep=14) - I was a guest on the [Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/) talking about abusing managed Kubernetes clusters.  
