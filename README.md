@@ -22,6 +22,8 @@ I conduct security research both, professionally and as a hobby. My primary focu
 
 ## Community Involvement
 I'm involved/participate with the security community in several ways. Here are just a few.
+* [RSAC 2025](https://www.youtube.com/watch?v=oL2JnblVzmA) - "Critiquing Cloud Criminals: Ready for Smarter Cloud Attacks?", covering common OPSEC failures threat actors make when attacking cloud environments, how you can catch them, and how you can achieve the same thing stealthily.
+* [Wild West Hackin' Fest: Mile High 2025](https://www.youtube.com/watch?v=47cjTYtd9yI) - I was the opening keynote speaker for the conference with "I Want You to Hack AWS: Cloud Penetration Testing for Traditional Hackers".
 * [fwd:cloudsec EU 2024](https://www.youtube.com/watch?v=f7AuDxlYCzE) - "Hidden Among the Clouds: A Look at Undocumented AWS APIs", a talk where I shared my research on finding thousands on undocumented AWS APIs.
 * [DEF CON 32](https://www.youtube.com/watch?v=oAriLYN-5HA) - I spoke on the main stage of DEF CON 32, sharing my research on exploiting AWS service vulnerabilities for initial access. The talk was titled "Kicking in the Door to the Cloud: Exploiting Cloud Provider Vulnerabilities for Initial Access".    
 * [fwd:cloudsec NA 2024](https://www.youtube.com/watch?v=SodD-AS7t-k) - I gave a talk titled "Trust Me Bro: Preexisting Trust is the New Initial Access Vector" at fwd:cloudsec NA 2024.  
