@@ -9,6 +9,7 @@ This GitHub profile contains a bunch of stuff, and some of it is "good". You can
 ## Vulnerability Research
 I conduct security research both, professionally and as a hobby. My primary focus is on AWS and web application security.
 
+* [Enumerating AWS the quiet way: CloudTrail-free discovery with Resource Explorer](https://securitylabs.datadoghq.com/articles/enumerating-aws-the-quiet-way-cloudtrail-free-discovery-with-resource-explorer/)
 * [Non-Production Endpoints as an Attack Surface in AWS](https://securitylabs.datadoghq.com/articles/non-production-endpoints-as-an-attack-surface-in-aws/)
 * [Amplified exposure: How AWS flaws made Amplify IAM roles vulnerable to takeover](https://securitylabs.datadoghq.com/articles/amplified-exposure-how-aws-flaws-made-amplify-iam-roles-vulnerable-to-takeover/)  
 * [Bypassing CloudTrail in AWS Service Catalog, and Other Logging Research](https://securitylabs.datadoghq.com/articles/bypass-cloudtrail-aws-service-catalog-and-other/)
